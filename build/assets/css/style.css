@@ -1,0 +1,29 @@
+/* * {
+  border : 1px solid black;
+} */
+
+body {
+  background-color : #4388cc;
+
+}
+
+header, footer {
+  background-color: #1b3280;
+  font-family: 'Elephant';
+}
+
+#logo {
+  transform : translateY(25%)
+}
+
+.nav-footer {
+  padding : 5px;
+}
+
+h1 {
+  font-family: 'Elephant';
+}
+
+.btn {
+  background-color: #ffdd17;
+}
